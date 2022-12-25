@@ -1,2 +1,3 @@
+# Build settings
+markdown: kramdown
 theme: minima
-# 1226Muhammad.github.io
