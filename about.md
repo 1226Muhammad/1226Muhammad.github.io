@@ -3,9 +3,7 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site
-Hope you love it!
-MY NAME IS MUHAMMAD
+This is an about page for this website
 
 Reasons:
 - its great.
